@@ -1,2 +1,2 @@
 # Rezept
-Meine Web-Projekt für die schule
+Meine Web-Projekt für die Schule
